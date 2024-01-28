@@ -1,1 +1,2 @@
-criado no mini-curso Start na Programação da OneBitCode
+criado no mini-curso Start na Programação da OneBitCode.
+mofiquei readme, testando...
